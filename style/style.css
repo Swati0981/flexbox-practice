@@ -60,13 +60,13 @@
    
     display:flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
 }
 .tall{
     height: 120px;
     display:flex;
     flex-direction: column;
-    align-items: baseline;
+   
  
 }
  
@@ -87,7 +87,7 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
-    flex-grow: 0.5;
+    flex-grow: 1;
 }
  
 .item{
